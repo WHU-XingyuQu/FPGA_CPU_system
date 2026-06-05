@@ -1,0 +1,30 @@
+# Vivado / XSim generated files
+.Xil/
+xsim.dir/
+*.jou
+*.log
+*.pb
+*.wdb
+*.wcfg
+*.str
+*.dmp
+*.bit
+*.ltx
+
+# Generated reports and run outputs
+*.rpt
+*.html
+*.xml
+*.csv
+*.backup.*
+_artifacts/
+_rollback/
+_stale_edf_disabled/
+
+# Python / editor / OS noise
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
